@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nirali suthar
-- 👀 I’m interested in Software Developement
-- 🌱 I’m currently learning Java and JavaScript
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in Software Developement and Web development.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and C#.
+- 💞️ I’m looking to collaborate on C# and .Net.
 - 📫 How to reach me, nirali.suthar12@gmail.com
 
 <!---
